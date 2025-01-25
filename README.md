@@ -1,6 +1,8 @@
 # To-Do List App with Tkinter and MySQL
 
 A simple and interactive To-Do List application built with Python's Tkinter library for the graphical user interface (GUI) and MySQL as the backend database. This project demonstrates how to integrate Python with MySQL to manage tasks efficiently in a persistent database.
+## Screenshots
+![image](https://github.com/user-attachments/assets/a38c26c4-e1ad-47eb-8756-2ca87213e180)
 
 ## Features
 
