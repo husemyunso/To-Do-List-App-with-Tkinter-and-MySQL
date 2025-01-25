@@ -23,7 +23,7 @@ root = tkinter.Tk()
 
 root.configure(bg='lightyellow')
 root.title('To-Do List App')
-root.geometry('350x350')
+root.geometry('350x500')
 
 # Fetch tasks from the database
 def fetch_tasks():
